@@ -1,0 +1,15 @@
+P:\labs\Системне та мережне програмування\Lab01\Lab01App\Task1\bin\Debug\net6.0\Task1 Generation.exe
+P:\labs\Системне та мережне програмування\Lab01\Lab01App\Task1\bin\Debug\net6.0\Task1 Generation.deps.json
+P:\labs\Системне та мережне програмування\Lab01\Lab01App\Task1\bin\Debug\net6.0\Task1 Generation.runtimeconfig.json
+P:\labs\Системне та мережне програмування\Lab01\Lab01App\Task1\bin\Debug\net6.0\Task1 Generation.dll
+P:\labs\Системне та мережне програмування\Lab01\Lab01App\Task1\bin\Debug\net6.0\Task1 Generation.pdb
+P:\labs\Системне та мережне програмування\Lab01\Lab01App\Task1\obj\Debug\net6.0\Task1 Generation.csproj.AssemblyReference.cache
+P:\labs\Системне та мережне програмування\Lab01\Lab01App\Task1\obj\Debug\net6.0\Task1 Generation.GeneratedMSBuildEditorConfig.editorconfig
+P:\labs\Системне та мережне програмування\Lab01\Lab01App\Task1\obj\Debug\net6.0\Task1 Generation.AssemblyInfoInputs.cache
+P:\labs\Системне та мережне програмування\Lab01\Lab01App\Task1\obj\Debug\net6.0\Task1 Generation.AssemblyInfo.cs
+P:\labs\Системне та мережне програмування\Lab01\Lab01App\Task1\obj\Debug\net6.0\Task1 Generation.csproj.CoreCompileInputs.cache
+P:\labs\Системне та мережне програмування\Lab01\Lab01App\Task1\obj\Debug\net6.0\Task1 Generation.dll
+P:\labs\Системне та мережне програмування\Lab01\Lab01App\Task1\obj\Debug\net6.0\refint\Task1 Generation.dll
+P:\labs\Системне та мережне програмування\Lab01\Lab01App\Task1\obj\Debug\net6.0\Task1 Generation.pdb
+P:\labs\Системне та мережне програмування\Lab01\Lab01App\Task1\obj\Debug\net6.0\Task1 Generation.genruntimeconfig.cache
+P:\labs\Системне та мережне програмування\Lab01\Lab01App\Task1\obj\Debug\net6.0\ref\Task1 Generation.dll

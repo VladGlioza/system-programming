@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WinFormsApp1/1.0.0": {
+        "dependencies": {
+          "Lab05App.Functions": "1.0.0",
+          "Lab05App.InterfaceLib": "1.0.0"
+        },
+        "runtime": {
+          "WinFormsApp1.dll": {}
+        }
+      },
+      "Lab05App.Functions/1.0.0": {
+        "runtime": {
+          "Lab05App.Functions.dll": {}
+        }
+      },
+      "Lab05App.InterfaceLib/1.0.0": {
+        "runtime": {
+          "Lab05App.InterfaceLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinFormsApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lab05App.Functions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lab05App.InterfaceLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+P:\labs\Системне та мережне програмування\Lab01\Lab01App\Task 1 Sort\bin\Debug\net6.0\Task 1 Sort.exe
+P:\labs\Системне та мережне програмування\Lab01\Lab01App\Task 1 Sort\bin\Debug\net6.0\Task 1 Sort.deps.json
+P:\labs\Системне та мережне програмування\Lab01\Lab01App\Task 1 Sort\bin\Debug\net6.0\Task 1 Sort.runtimeconfig.json
+P:\labs\Системне та мережне програмування\Lab01\Lab01App\Task 1 Sort\bin\Debug\net6.0\Task 1 Sort.dll
+P:\labs\Системне та мережне програмування\Lab01\Lab01App\Task 1 Sort\bin\Debug\net6.0\Task 1 Sort.pdb
+P:\labs\Системне та мережне програмування\Lab01\Lab01App\Task 1 Sort\obj\Debug\net6.0\Task 1 Sort.csproj.AssemblyReference.cache
+P:\labs\Системне та мережне програмування\Lab01\Lab01App\Task 1 Sort\obj\Debug\net6.0\Task 1 Sort.GeneratedMSBuildEditorConfig.editorconfig
+P:\labs\Системне та мережне програмування\Lab01\Lab01App\Task 1 Sort\obj\Debug\net6.0\Task 1 Sort.AssemblyInfoInputs.cache
+P:\labs\Системне та мережне програмування\Lab01\Lab01App\Task 1 Sort\obj\Debug\net6.0\Task 1 Sort.AssemblyInfo.cs
+P:\labs\Системне та мережне програмування\Lab01\Lab01App\Task 1 Sort\obj\Debug\net6.0\Task 1 Sort.csproj.CoreCompileInputs.cache
+P:\labs\Системне та мережне програмування\Lab01\Lab01App\Task 1 Sort\obj\Debug\net6.0\Task 1 Sort.dll
+P:\labs\Системне та мережне програмування\Lab01\Lab01App\Task 1 Sort\obj\Debug\net6.0\refint\Task 1 Sort.dll
+P:\labs\Системне та мережне програмування\Lab01\Lab01App\Task 1 Sort\obj\Debug\net6.0\Task 1 Sort.pdb
+P:\labs\Системне та мережне програмування\Lab01\Lab01App\Task 1 Sort\obj\Debug\net6.0\Task 1 Sort.genruntimeconfig.cache
+P:\labs\Системне та мережне програмування\Lab01\Lab01App\Task 1 Sort\obj\Debug\net6.0\ref\Task 1 Sort.dll

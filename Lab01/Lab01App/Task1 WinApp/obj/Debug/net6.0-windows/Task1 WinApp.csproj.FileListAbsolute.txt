@@ -1,0 +1,17 @@
+P:\labs\Системне та мережне програмування\Lab01\Lab01App\Task1 WinApp\bin\Debug\net6.0-windows\Task1 WinApp.exe
+P:\labs\Системне та мережне програмування\Lab01\Lab01App\Task1 WinApp\bin\Debug\net6.0-windows\Task1 WinApp.deps.json
+P:\labs\Системне та мережне програмування\Lab01\Lab01App\Task1 WinApp\bin\Debug\net6.0-windows\Task1 WinApp.runtimeconfig.json
+P:\labs\Системне та мережне програмування\Lab01\Lab01App\Task1 WinApp\bin\Debug\net6.0-windows\Task1 WinApp.dll
+P:\labs\Системне та мережне програмування\Lab01\Lab01App\Task1 WinApp\bin\Debug\net6.0-windows\Task1 WinApp.pdb
+P:\labs\Системне та мережне програмування\Lab01\Lab01App\Task1 WinApp\obj\Debug\net6.0-windows\Task1 WinApp.csproj.AssemblyReference.cache
+P:\labs\Системне та мережне програмування\Lab01\Lab01App\Task1 WinApp\obj\Debug\net6.0-windows\Task1_WinApp.Form1.resources
+P:\labs\Системне та мережне програмування\Lab01\Lab01App\Task1 WinApp\obj\Debug\net6.0-windows\Task1 WinApp.csproj.GenerateResource.cache
+P:\labs\Системне та мережне програмування\Lab01\Lab01App\Task1 WinApp\obj\Debug\net6.0-windows\Task1 WinApp.GeneratedMSBuildEditorConfig.editorconfig
+P:\labs\Системне та мережне програмування\Lab01\Lab01App\Task1 WinApp\obj\Debug\net6.0-windows\Task1 WinApp.AssemblyInfoInputs.cache
+P:\labs\Системне та мережне програмування\Lab01\Lab01App\Task1 WinApp\obj\Debug\net6.0-windows\Task1 WinApp.AssemblyInfo.cs
+P:\labs\Системне та мережне програмування\Lab01\Lab01App\Task1 WinApp\obj\Debug\net6.0-windows\Task1 WinApp.csproj.CoreCompileInputs.cache
+P:\labs\Системне та мережне програмування\Lab01\Lab01App\Task1 WinApp\obj\Debug\net6.0-windows\Task1 WinApp.dll
+P:\labs\Системне та мережне програмування\Lab01\Lab01App\Task1 WinApp\obj\Debug\net6.0-windows\refint\Task1 WinApp.dll
+P:\labs\Системне та мережне програмування\Lab01\Lab01App\Task1 WinApp\obj\Debug\net6.0-windows\Task1 WinApp.pdb
+P:\labs\Системне та мережне програмування\Lab01\Lab01App\Task1 WinApp\obj\Debug\net6.0-windows\Task1 WinApp.genruntimeconfig.cache
+P:\labs\Системне та мережне програмування\Lab01\Lab01App\Task1 WinApp\obj\Debug\net6.0-windows\ref\Task1 WinApp.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Lab05App.InterfaceLib/1.0.0": {
+        "runtime": {
+          "Lab05App.InterfaceLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab05App.InterfaceLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
